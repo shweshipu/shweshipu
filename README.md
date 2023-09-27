@@ -1,4 +1,15 @@
-### Hi there 👋
+# Steven Harper
+
+## Major
+Computer science at Eastern Washington University
+
+### Minors
+Math, Machine learning, Japanese
+
+
+
+
+
 
 <!--
 **shweshipu/shweshipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
