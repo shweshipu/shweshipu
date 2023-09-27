@@ -6,7 +6,7 @@ Computer science at Eastern Washington University
 ### Minors
 Math, Machine learning, Japanese
 
-
+## Topics of interest
 
 
 
