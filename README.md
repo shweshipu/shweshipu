@@ -6,7 +6,7 @@ I'm a student at Eastern Washington University. I started out in computer scienc
 Since then, I've dipped my toes into the various fields in CS, and my current fixation is on how neural networks work. I love the cool math behind them.
 * 🌍  I'm based in Spokane, WA
 * ✉️  You can contact me at [steven.harper.ja@protonmail.com](mailto:steven.harper.ja@protonmail.com)
-* 🧠  I'm learning Web development
+* 🧠  I'm learning Assembly
 * 🤝  I'm open to collaborating on gamejams, AI stuff, and anything really
 
 ### Skills
