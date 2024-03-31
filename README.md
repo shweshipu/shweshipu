@@ -3,7 +3,7 @@ Hi 👋 My name is Steven Harper
 Lifelong Learner
 ----------------
 I'm a student at Eastern Washington University. I started out in computer science wanting to make video games, and <br>
-since then, I've dipped my toes into the various fields in CS, discovering a passion for algorithms and myself on neural networks. I love the cool math behind them.
+since then, I've dipped my toes into the various fields in CS, discovering a passion for algorithms and neural networks. I love the cool math behind them.
 * 🌍  I'm based in Spokane, WA
 * ✉️  You can contact me at [steven.harper.ja@protonmail.com](mailto:steven.harper.ja@protonmail.com)
 * 🧠  I'm learning about diffusion networks
