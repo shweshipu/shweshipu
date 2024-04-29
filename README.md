@@ -18,5 +18,5 @@ since then, I've dipped my toes into the various fields in CS, discovering a pas
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" width="36" height="36" alt="Spark" /></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/logo.svg" width="36" height="36" alt="Spark" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://jeancochrane.com/static/images/blog/pytorch-functional-api/pytorch-logo.png" width="36" height="36" alt="Spark" /></a>
 </p>
