@@ -1,10 +1,10 @@
-Hi 👋 My name is Steven Harper
+Steven Harper
 ==============================
 Lifelong Learner
 ----------------
 I'm both software engineer and data scientist, with a passion for machine learning and making video games. 
-* 🌍  I'm based out of Spokane, WA
-* ✉️  Feel free to contact me at [steven.harper.ja@protonmail.com](mailto:steven.harper.ja@protonmail.com)
+* 🌍  Spokane, WA
+* ✉️  [steven.harper.ja@protonmail.com](mailto:steven.harper.ja@protonmail.com)
 
 ### Skills
 
